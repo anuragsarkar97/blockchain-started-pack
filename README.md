@@ -1,5 +1,5 @@
 # Blockchain daily
-[![Build Status](https://travis-ci.org/type-a/offchain.png?branch=master)](https://travis-ci.org/type-a/offchain)
+[![Build Status](https://travis-ci.org/anuragsarkar97/blockchain-started-pack.png?branch=master)](https://travis-ci.org/anuragsarkar97/blockchain-started-pack)
 
 
 ## Getting Started
